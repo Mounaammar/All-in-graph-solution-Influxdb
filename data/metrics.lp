@@ -1,0 +1,9 @@
+metric,id=S1 available_bikes=3i 1754301600000000000
+metric,id=S1 available_bikes=5i 1754302200000000000
+metric,id=S1 available_bikes=6i 1754302800000000000
+metric,id=S2 available_bikes=6i 1754301600000000000
+metric,id=S2 available_bikes=4i 1754302200000000000
+metric,id=S2 available_bikes=3i 1754302800000000000
+metric,id=S3 available_bikes=4i 1754301600000000000
+metric,id=S3 available_bikes=4i 1754302200000000000
+metric,id=S3 available_bikes=5i 1754302800000000000

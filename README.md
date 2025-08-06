@@ -1,4 +1,4 @@
-# Bike Sharing — Graph + Time Series (InfluxDB) Demo
+# Bike Sharing — Graph + Time Series (InfluxDB)
 
 Minimal setup to test combined graph and time-series data in InfluxDB.
 

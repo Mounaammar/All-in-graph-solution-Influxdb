@@ -1,6 +1,6 @@
 # Bike Sharing — Graph + Time Series (InfluxDB) Demo
 
-Minimal setup to test graph-like edges (trips) and node metrics (station availability) in InfluxDB 2.x.
+Minimal setup to test combined graph and time-series data in InfluxDB.
 
 ## Quick start
 1. Copy `.env.example` to `.env` (adjust if needed).

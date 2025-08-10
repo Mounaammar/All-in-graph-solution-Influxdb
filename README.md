@@ -10,6 +10,6 @@ Minimal setup to test combined graph and time-series data in InfluxDB.
 ## Schema
 - **node**: tag `station_id`; fields `name` (string), `capacity` (int)
 - **edge**: tags `edge_id`, `src`, `dst`; fields `member_type`, `bike_type`, `user_id`
-- **metric**: tags `id`, `metric_name` (implicit by field name here); fields `available_bikes` (int)
+- **metric**: tags `id`, `metric_name`; fields `available_bikes` (int)
 
 Write with `?precision=ns`.
